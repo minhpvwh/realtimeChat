@@ -1,0 +1,10 @@
+aiohttp==3.3.0
+
+aiohttp-jinja2==1.0.0
+
+Jinja2==2.10
+aiosqlite==0.3.0
+
+aiohttp_session
+
+python-socketio
